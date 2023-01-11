@@ -6,7 +6,7 @@ const H1Header = ({ header }) => <h1>{header}</h1>
 const App = () => {
   const courses = [
     {
-      name: 'Half Stack application development',
+      name: 'Half Stack application development with course is what you will learn',
       id: 1,
       parts: [
         {
